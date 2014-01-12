@@ -2,3 +2,11 @@ This is your new Play application
 =====================================
 
 This file will be packaged with your application, when using `play dist`.
+
+1)Ensure you have downloaded the jsonPlayRequestor application. 
+
+2)Navigate to the dir of this app, type play. 
+
+3) Type start 9001. 
+
+4)Run the requestor application in another terminal.
